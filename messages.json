@@ -1,0 +1,11 @@
+{
+  "messages": [
+    {
+      "date": "2023-02-22",
+      "level": "info",
+      "title": "Release Announcement",
+      "desc": "Labs is happy to announce an upcoming release - check it out Mar 1!",
+      "link": {"label": "See more in discussions", "to": "https://github/discussions"}
+    }
+  ]
+}

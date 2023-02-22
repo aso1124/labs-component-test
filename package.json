@@ -1,0 +1,26 @@
+{
+    "private": true,
+    "name": "labs-component-test",
+    "version": "0.1.0",
+    "scripts": {
+        "start": "nr1 nerdpack:serve",
+        "test": "exit 0"
+    },
+    "nr1": {
+        "uuid": "69307f4e-776d-44d5-a912-492a47e2e16b"
+    },
+    "dependencies": {
+        "@newrelic/nr-labs-components": "file:../../forks/nr-labs-components",
+        "dayjs": "^1.11.7"
+    },
+    "devDependencies": {
+        "prop-types": "15.7.2",
+        "react": "17.0.2",
+        "react-dom": "17.0.2"
+    },
+    "browserslist": [
+        "last 2 versions",
+        "not ie < 11",
+        "not dead"
+    ]
+}
