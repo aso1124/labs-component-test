@@ -6,6 +6,27 @@
       "title": "Release Announcement",
       "desc": "Labs is happy to announce an upcoming release - check it out Mar 1!",
       "link": {"label": "See more in discussions", "to": "https://github/discussions"}
+    },
+    {
+      "date": "2023-02-20",
+      "level": "warning",
+      "title": "Warning",
+      "desc": "This is a warning message",
+      "link": {"label": "See more in discussions", "to": "https://github/discussions"}
+    },
+    {
+      "date": "2023-02-20",
+      "level": "critical",
+      "title": "Critical",
+      "desc": "This is a critical message",
+      "link": {"label": "See more in discussions", "to": "https://github/discussions"}
+    },
+    {
+      "date": "2023-01-22",
+      "level": "info",
+      "title": "Old Message",
+      "desc": "This message should not show up",
+      "link": {"label": "See more in discussions", "to": "https://github/discussions"}
     }
   ]
 }
