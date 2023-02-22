@@ -22,6 +22,13 @@
       "link": {"label": "See more in discussions", "to": "https://github/discussions"}
     },
     {
+      "date": "2023-02-19",
+      "level": "warning",
+      "title": "Warning",
+      "desc": "This is a warning message",
+      "link": {"label": "See more in discussions", "to": "https://github/discussions"}
+    },
+    {
       "date": "2023-01-22",
       "level": "info",
       "title": "Old Message",
