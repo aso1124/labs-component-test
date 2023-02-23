@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { nerdlet, Icon } from "nr1"
-import { HelpModal } from '@newrelic/nr-labs-components';
-import Messages from './messages'
+import { HelpModal, Messages } from '@newrelic/nr-labs-components';
 
 const Main = (props) => {
   const [helpModalOpen, setHelpModalOpen] = useState(false)
@@ -22,7 +21,7 @@ const Main = (props) => {
 
   return (
     <>
-    <Messages />
+    <Messages org='aso1124' repo='labs-component-test' />
     <div>Testing</div>
     {helpModalOpen && (
       <HelpModal
