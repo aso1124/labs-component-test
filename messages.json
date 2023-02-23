@@ -2,50 +2,39 @@
   "messages": [
     {
       "date": "2023-02-23",
-      "level": "warning",
-      "title": "Warning",
-      "desc": "This is today's warning message",
-      "link": {"label": "See more in discussions", "to": "https://github/discussions"}
+      "level": "info",
+      "title": "Info",
+      "desc": "This is an info announcement",
+      "link": {"label": "Learn more", "to": "https://www.google.com"}
     },
     {
       "date": "2023-02-23",
-      "level": "info",
-      "title": "Info",
-      "desc": "Info announcement",
-      "link": {"label": "See more in discussions", "to": "https://www.google.com"}
-    },
-    {
-      "date": "2023-02-21",
       "level": "warning",
       "title": "Warning",
       "desc": "This is a warning message",
-      "link": {"label": "See more in discussions", "to": "https://github/discussions"}
+      "link": {"label": "Learn more", "to": "https://www.google.com"}
     },
     {
-      "date": "2023-02-20",
+      "date": "2023-02-23",
       "level": "critical",
       "title": "Critical",
       "desc": "This is a critical message",
-      "link": {"label": "See more in discussions", "to": "https://github/discussions"}
     },
     {
-      "date": "2023-01-22",
+      "date": "2022-01-22",
       "level": "info",
       "title": "Old Message",
       "desc": "This message should not show up",
-      "link": {"label": "See more in discussions", "to": "https://github/discussions"}
     },
     {
       "level": "info",
       "title": "Incomplete Message - Missing date",
       "desc": "This message should not show up",
-      "link": {"label": "See more in discussions", "to": "https://github/discussions"}
     },
     {
       "date": "2023-02-22",
       "level": "info",
       "title": "Incomplete Message - missing desc",
-      "link": {"label": "See more in discussions", "to": "https://github/discussions"}
     }
   ]
 }
