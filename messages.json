@@ -3,6 +3,13 @@
     {
       "date": "2023-02-23",
       "level": "info",
+      "title": "New Information",
+      "desc": "Here is some new information!",
+      "link": {"label": "Learn more", "to": "https://www.google.com"}
+    },
+    {
+      "date": "2023-02-23",
+      "level": "info",
       "title": "Info",
       "desc": "This is an info announcement",
       "link": {"label": "Learn more", "to": "https://www.google.com"}
