@@ -3,7 +3,7 @@
     {
       "date": "2023-02-21",
       "level": "critical",
-      "title": "Another Critical - updateddddd",
+      "title": "Another Critical",
       "desc": "This is another critical message!!!",
       "link": {"label": "See more in discussions", "to": "https://github/discussions"}
     },
