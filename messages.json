@@ -1,38 +1,11 @@
 {
   "messages": [
     {
-      "date": "2023-02-22",
-      "level": "info",
-      "title": "Just wanted to let you know",
-      "desc": "I made this message",
-      "link": {"label": "See more in discussions", "to": "https://github/discussions"}
-    },
-    {
-      "date": "2023-02-21",
-      "level": "warning",
-      "title": "Another Warning - Updated",
-      "desc": "I changed this message!!!",
-      "link": {"label": "See more in discussions", "to": "https://github/discussions"}
-    },{
-      "date": "2023-02-23",
-      "level": "info",
-      "title": "Info",
-      "desc": "Another Info announcement",
-      "link": {"label": "See more in discussions", "to": "https://www.google.com"}
-    },
-    {
       "date": "2023-02-23",
       "level": "info",
       "title": "Info",
       "desc": "Info announcement",
       "link": {"label": "See more in discussions", "to": "https://www.google.com"}
-    },
-    {
-      "date": "2023-02-22",
-      "level": "info",
-      "title": "Release Announcement",
-      "desc": "Labs is happy to announce an upcoming release - check it out Mar 1!",
-      "link": {"label": "See more in discussions", "to": "https://github/discussions"}
     },
     {
       "date": "2023-02-21",
@@ -46,13 +19,6 @@
       "level": "critical",
       "title": "Critical",
       "desc": "This is a critical message",
-      "link": {"label": "See more in discussions", "to": "https://github/discussions"}
-    },
-    {
-      "date": "2023-02-19",
-      "level": "warning",
-      "title": "Warning",
-      "desc": "This is a warning message",
       "link": {"label": "See more in discussions", "to": "https://github/discussions"}
     },
     {
