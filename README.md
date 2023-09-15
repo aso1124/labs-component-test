@@ -1,6 +1,6 @@
 # labs-component-test
 
-## Getting started
+## [Getting started]()
 
 Run the following scripts:
 
